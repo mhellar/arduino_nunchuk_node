@@ -1,2 +1,2 @@
-# arduino_nunchuk_node
-arduino_nunchuk_node
+#Some experiments in getting a wii_nunchcuk talking to a nodeJS server
+
